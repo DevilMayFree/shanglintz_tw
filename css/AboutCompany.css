@@ -1,0 +1,263 @@
+
+/*AboutCompany-��˾������ʽ���£�*/
+
+.content-top {
+	        margin-top:0;
+	}
+.content-top-no1 {
+			width:1px;
+			height:30px;
+/*			float:left;*/
+			margin:4% 50% 1% 50%;
+			color:#d0d0d0;
+			border-left:1px solid #d0d0d0;
+		}
+		.content-top-site {
+			/*float:left;*/
+			font-size:25px;
+			margin-top:0;
+                        display: inline-block;
+                        width: 100%;
+                        text-align: center;
+		}
+		.content-top-no2 {
+			width:1px;
+			height:30px;
+			/*float:left;*/
+			margin:1% 50% 4% 50%;
+			border-left:1px solid #d0d0d0;
+			color:#d0d0d0;
+		}
+		.content-main {
+			width:100%;
+			height:80%;
+			float:left;
+		}
+		.content-banner {
+			width:59%;
+			height:18%;
+			float:left;
+			margin-top:0;
+			margin-left:20%;
+		}
+		.content-pict {
+			width:100%;
+		}
+		.content-pict li{
+			 float:left;
+			margin-top:3%;
+
+		}
+		.dian li {
+			margin-top:3%;
+		}
+		.content-banner-circle {
+			width:10px;
+			height:10px;
+			float:left;
+			background-color: #e0e0e0;
+			border:2px solid #e0e0e0;
+			border-radius: 12px;
+			margin-left:50%;
+
+		}
+		.content-banner-circle1 {
+			width:10px;
+			height:10px;
+			float:left;
+			background-color: #FFFFFF;
+			border:2px solid #b48f32;
+			border-radius: 12px;
+			margin-left:10px;
+		}
+		.content-banner .dian{margin-top: 180px;
+			margin-left:49%; }
+	    .content-banner .dian li{width:12px;
+			height:12px;
+			float:left;
+			margin-right:3%;
+			background:url(../images/dian1.png) no-repeat;
+			}
+	    .content-banner .dian .current{width:12px;
+			height:12px;
+			float:left;
+			margin-top:3%;
+			background:url(../images/dian2.png) no-repeat;
+			 }
+		.content-wapper {
+			width:64%;
+			height:400px;
+			float:left;
+			margin-top:4%;
+			margin-left:20%;
+			font-size:14px;
+			color:#666666;
+			line-height:35px;
+		}
+		.breakline {
+			width:6px;
+			height:58px;
+			float:left;
+			margin-left:4%;
+			margin-top:10%;
+			background-color: #b48f32;
+		}
+		.subbreakline {
+			width:2px;
+			height:387px;
+			float:left;
+			background-color: #e0e0e0;
+			margin-top:4%;
+		}
+
+        /*NewDetails-����������ʽ���£�*/
+
+        .a {color:#fff;}
+		.contenter-top {
+			width:100%;
+			height:23%;
+		}
+		.contenter-header {
+			width:61%;
+			height:75%;
+			float:left;
+			margin-left:26%;
+            margin-bottom:4%;
+			border-bottom:1px solid #dcdcdc;
+		}
+		.contenter-error {
+			width:30px;
+			height:30px;
+			cursor: pointer;
+			float:right;
+			margin-top:1%;
+			margin-right:2%;
+		}
+        .error {
+			width:100%;
+		}
+
+		.header-title {
+			width: 100%;
+			float:left;
+			margin-left:30%;
+			margin-top:7%;
+			font-size: 23px;
+			color:#525252;
+			text-align: center;
+		}
+		.header-time {
+			width:100%;
+			height:12px;
+			float:left;
+			font-size:11px;
+			color:#999;
+			padding: 5% 0
+		}
+		.contenter-main {
+			width:100%;
+			height:85%;
+		}
+		.contenter-banner {
+			height:26%;
+			float:left;
+			margin-top:0;
+			margin-left:35%;
+		}
+                .contenter-wapper p{
+                    line-height: 28px;
+                    text-indent: 2em;
+                }
+         .contenter-newdetails {
+		    width:100%;
+         }
+		.contenter-wapper {
+			width:43%;
+			height:46%;
+			float:left;
+			margin-left:35%;
+                        color: #999;
+		}
+		.massage {
+			float:left;
+			margin-top:3%;
+			font-size:12px;
+			color:#888888;
+			line-height:30px;
+		}
+
+          /*CorporateCulture-��ҵ�Ļ���ʽ���£�*/
+
+
+
+		.a {color:#fff;}
+		.contenters-top-no1 {
+			width:1px;
+			height:30px;
+			float:left;
+			margin:6% 50% 1% 55%;
+			color:#d0d0d0;
+			border-left:1px solid #d0d0d0;
+		}
+		.contenters-top-site {
+			float:left;
+			font-size:25px;
+			margin-top:0;
+			margin-left:52%;
+		}
+		.contenters-top-no2 {
+			width:1px;
+			height:30px;
+			float:left;
+			margin:1% 50% 4% 55%;
+			border-left:1px solid #d0d0d0;
+			color:#d0d0d0;
+		}
+		.contenters-main {
+			width:100%;
+			height:58%;
+		}
+		.contenters-banner {
+			float:left;
+			width:58%;
+			height:15%;
+			margin-left:27%;
+		}
+
+        .contenters-pict {
+			width:100%;
+		}
+
+        .contenter-newdetails {
+		    width:100%;
+                }
+
+		.contenters-wapper {
+			width:100%;
+			height:9%;
+			float:left;
+		}
+		.contenters-title {
+			margin-left:27%;
+			margin-top:5%;
+			font-size:12px;
+			color:#666;
+			width: 58%;
+		}
+
+		.contenters-title p span{
+    white-space: normal;
+    width: 100%;
+    display: inline-block;
+    font-size: 14px;
+    line-height: 16px;
+}
+		.contenters-title p {
+    white-space: normal;
+    width: 100%;
+    display: inline-block;
+    font-size: 14px;
+    line-height: 22px;
+    text-indent: 2em;
+}
+		}

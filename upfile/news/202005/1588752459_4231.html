@@ -1,0 +1,76 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="百度地圖,百度地圖API，百度地圖自定義工具，百度地圖所見即所得工具" />
+<meta name="description" content="百度地圖API自定義地圖，幫助用戶在可視化操作下生成百度地圖" />
+<title>百度地圖API自定義地圖</title>
+<!--引用百度地圖API-->
+<style type="text/css">
+    html,body{margin:0;padding:0;}
+    .iw_poi_title {color:#CC5522;font-size:14px;font-weight:bold;overflow:hidden;padding-right:13px;white-space:nowrap}
+    .iw_poi_content {font:12px arial,sans-serif;overflow:visible;padding-top:4px;white-space:-moz-pre-wrap;word-wrap:break-word}
+</style>
+<script type="text/javascript" src="http://api.map.baidu.com/api?key=&v=1.1&services=true"></script>
+</head>
+
+<body>
+  <!--百度地圖容器-->
+  <div style="width:697px;height:330px;border:#ccc solid 1px;" id="dituContent"></div>
+</body>
+<script type="text/javascript">
+    //創建和初始化地圖函數：
+    function initMap(){
+        createMap();//創建地圖
+        setMapEvent();//設置地圖事件
+        addMapControl();//向地圖添加控件
+        addRemark();//向地圖中添加文字標註
+    }
+    
+    //創建地圖函數：
+    function createMap(){
+        var map = new BMap.Map("dituContent");//在百度地圖容器中創建一個地圖
+        var point = new BMap.Point(121.58012,31.179999);//定義一箇中心點座標
+        map.centerAndZoom(point,17);//設定地圖的中心點和座標並將地圖顯示在地圖容器中
+        window.map = map;//將map變量存儲在全局
+    }
+    
+    //地圖事件設置函數：
+    function setMapEvent(){
+        map.enableDragging();//啟用地圖拖拽事件，默認啟用(可不寫)
+        map.enableScrollWheelZoom();//啟用地圖滾輪放大縮小
+        map.enableDoubleClickZoom();//啟用鼠標雙擊放大，默認啟用(可不寫)
+        map.enableKeyboard();//啟用鍵盤上下左右鍵移動地圖
+    }
+    
+    //地圖控件添加函數：
+    function addMapControl(){
+        //向地圖中添加縮放控件
+	var ctrl_nav = new BMap.NavigationControl({anchor:BMAP_ANCHOR_TOP_LEFT,type:BMAP_NAVIGATION_CONTROL_LARGE});
+	map.addControl(ctrl_nav);
+        //向地圖中添加縮略圖控件
+	var ctrl_ove = new BMap.OverviewMapControl({anchor:BMAP_ANCHOR_BOTTOM_RIGHT,isOpen:1});
+	map.addControl(ctrl_ove);
+        //向地圖中添加比例尺控件
+	var ctrl_sca = new BMap.ScaleControl({anchor:BMAP_ANCHOR_BOTTOM_LEFT});
+	map.addControl(ctrl_sca);
+    }
+    
+//文字標註數組
+    var lbPoints = [{point:"121.579518|31.180261",content:"商林投資"}
+		 ];
+    //向地圖中添加文字標註函數
+    function addRemark(){
+        for(var i=0;i<lbPoints.length;i++){
+            var json = lbPoints[i];
+            var p1 = json.point.split("|")[0];
+            var p2 = json.point.split("|")[1];
+            var label = new BMap.Label("<div style='padding:2px;'>"+json.content+"</div>",{point:new BMap.Point(p1,p2),offset:new BMap.Size(3,-6)});
+            map.addOverlay(label);
+            label.setStyle({borderColor:"#999"});
+        }
+    }
+    
+    initMap();//創建和初始化地圖
+</script>
+</html>

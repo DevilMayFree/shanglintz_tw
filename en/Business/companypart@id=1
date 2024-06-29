@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta http-equiv="content-type" content="text/html" charset="UTF-8">
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta name="description" content="原龙投资是一家投资公司" />
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="keywords" content="原龙,投资,原龙投资">
+    <script type="text/javascript" src="/assets/dff999cc/jquery.js"></script>
+<title>已投企业 - 原龙投资</title>
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/AboutCompany.css">
+
+</head>
+<body>
+  <div class="mobile-header clearfix">
+
+    <div class="logo">
+      <a href="/">
+        <img src="/images/logo.jpg" alt="">
+      </a>
+    </div>
+    <div class="m-nav">
+      <ul>
+        <li>
+          <a href="/">Index</a>
+        </li>
+        <li>
+          <a href="/en/About/company">AboutSL</a>
+        </li>
+        <li>
+          <a href="/en/Corporateculture/vision">Corporate Culture</a>
+        </li>
+        <li>
+          <a href="/en/Business/strategies">Our Business</a>
+        </li>
+        <li>
+          <a href="/en/Mindsintroduction/team">Team Introduction</a>
+        </li>
+        <li>
+          <a href="/en/Contactus/detail">Contact Us</a>
+        </li>
+        <li>
+          <a href="/en/bigfamily/family">Yuanlong Big Family</a>
+        </li>
+      </ul>
+      <div class="lang">
+        <a href="/en/mindsintroduction/team.html">中文&nbsp;&nbsp;/&nbsp;&nbsp;<span style="color: #999;">EN</span></a>
+      </div>
+    </div>
+    <div class="mobile-btn"></div>
+  </div>
+<div class="container">
+<style>
+
+.cp_list .kuang{
+    position: absolute;
+    width: 100%;
+    top: 45px;
+    left: 4px;
+    height: 90px;
+}
+.kuang img{
+    vertical-align:middle
+}
+.kuang i{
+    width: 100%;
+    overflow: hidden;
+    display: inline-block;
+    vertical-align:middle
+}
+#gundiv li{
+    overflow: hidden;
+    max-height: 277px;
+}
+
+#gundiv li h3 {
+    font-size: 16px;
+}
+</style>
+<div class="sub-nav">
+	<ul>
+		<li >
+			<a href="/en/Business/strategies">Ideas & Strategies</a>
+		</li>
+		<li >
+			<a href="/en/business/investmentplate">Investment Plate</a>
+		</li>
+        <li class="on">
+            <a href="/en/business/companypart">Already Invested </a>
+        </li>
+        <li>
+            <a href="/en/business/investment">Investment </a><!--产业投资英文翻译-->
+        </li>
+	</ul>
+</div>
+<div class="conver">
+    <div class="article">
+        <div class="content">
+
+                <p class="top_border">|</p>
+                <h3 class="top_banner">Already Invested Enterprise</h3>
+                <p class="bottom_border">|</p>
+
+                <ul class="company_list">
+                                                            <li class=""><a href="/en/business/companypart?id=3" class="a-iselect">Holding companies</a></li>
+                                        <li class="li-select"><a href="/en/business/companypart?id=1" class="a-select">Private Equity (PE) Investment</a></li>
+                                        <li class=""><a href="/en/business/companypart?id=2" class="a-iselect">Limited Partners (LP)</a></li>
+                                </ul>
+                 <div  id="zsgun" class="clear">
+                    <div id="gundiv" class="container2 clear">
+                <div class="company_icon">
+                    <ul class="cp_list"  style=" width: 700px; margin-top:20px;">
+
+                                                    
+                                <li>
+                                    <a href="http://www.jianfeitech.com/" target="_blank">
+                                        <img src="/images/kuang.png" alt=""/>
+                                        <div class="kuang"  style="width:158px; height:90px; overflow:hidden; text-align:center; line-height:90px;  _font-size:90px;">
+                                            <img src="/upfile/news/201602/1454393984_4695.png" alt="" style="display:inline-block; vertical-align:middle; max-height:90px; _height:90px; max-width:154px; _width:154px;"/>
+
+                                        </div>
+                                        <h3 style="width:158px;" title="Beijing Opsmart Technology Co., Ltd.">Beijing Opsmart Technology Co., Ltd.</h3>
+                                    </a>
+                                </li>
+                        
+                                <li>
+                                    <a href="http://chinayzfzs.360500.com/" target="_blank">
+                                        <img src="/images/kuang.png" alt=""/>
+                                        <div class="kuang"  style="width:158px; height:90px; overflow:hidden; text-align:center; line-height:90px;  _font-size:90px;">
+                                            <img src="/upfile/news/201602/1454393950_6053.png" alt="" style="display:inline-block; vertical-align:middle; max-height:90px; _height:90px; max-width:154px; _width:154px;"/>
+
+                                        </div>
+                                        <h3 style="width:158px;" title="Beijing Yenova Decoration Co., Ltd.">Beijing Yenova Decoration Co., Ltd.</h3>
+                                    </a>
+                                </li>
+                        
+                                <li>
+                                    <a href="http://t.dianping.com/citylist" target="_blank">
+                                        <img src="/images/kuang.png" alt=""/>
+                                        <div class="kuang"  style="width:158px; height:90px; overflow:hidden; text-align:center; line-height:90px;  _font-size:90px;">
+                                            <img src="/upfile/news/201602/1454393922_2433.png" alt="" style="display:inline-block; vertical-align:middle; max-height:90px; _height:90px; max-width:154px; _width:154px;"/>
+
+                                        </div>
+                                        <h3 style="width:158px;" title="Dianping.com">Dianping.com</h3>
+                                    </a>
+                                </li>
+                        
+                                <li>
+                                    <a href="http://www.xiaojukeji.com/" target="_blank">
+                                        <img src="/images/kuang.png" alt=""/>
+                                        <div class="kuang"  style="width:158px; height:90px; overflow:hidden; text-align:center; line-height:90px;  _font-size:90px;">
+                                            <img src="/upfile/news/201602/1454393884_8016.png" alt="" style="display:inline-block; vertical-align:middle; max-height:90px; _height:90px; max-width:154px; _width:154px;"/>
+
+                                        </div>
+                                        <h3 style="width:158px;" title="Beijing Xiaoju Technology Co., Ltd.">Beijing Xiaoju Technology Co., Ltd.</h3>
+                                    </a>
+                                </li>
+                        
+                                <li>
+                                    <a href="http://shzhongyin.cn.china.cn/" target="_blank">
+                                        <img src="/images/kuang.png" alt=""/>
+                                        <div class="kuang"  style="width:158px; height:90px; overflow:hidden; text-align:center; line-height:90px;  _font-size:90px;">
+                                            <img src="/upfile/news/201602/1454393839_9742.png" alt="" style="display:inline-block; vertical-align:middle; max-height:90px; _height:90px; max-width:154px; _width:154px;"/>
+
+                                        </div>
+                                        <h3 style="width:158px;" title="Shanghai Zhongyin Catering Management Co., Ltd.">Shanghai Zhongyin Catering Management Co., Ltd.</h3>
+                                    </a>
+                                </li>
+                        
+                                <li>
+                                    <a href="http://www.zmodo.com.cn/" target="_blank">
+                                        <img src="/images/kuang.png" alt=""/>
+                                        <div class="kuang"  style="width:158px; height:90px; overflow:hidden; text-align:center; line-height:90px;  _font-size:90px;">
+                                            <img src="/upfile/news/201602/1454393799_8843.png" alt="" style="display:inline-block; vertical-align:middle; max-height:90px; _height:90px; max-width:154px; _width:154px;"/>
+
+                                        </div>
+                                        <h3 style="width:158px;" title="Shenzhen Zmodo Technology Co., Ltd.">Shenzhen Zmodo Technology Co., Ltd.</h3>
+                                    </a>
+                                </li>
+                        
+                                <li>
+                                    <a href="http://gzbgqy.cn.china.cn/" target="_blank">
+                                        <img src="/images/kuang.png" alt=""/>
+                                        <div class="kuang"  style="width:158px; height:90px; overflow:hidden; text-align:center; line-height:90px;  _font-size:90px;">
+                                            <img src="/upfile/news/201602/1454393712_8031.png" alt="" style="display:inline-block; vertical-align:middle; max-height:90px; _height:90px; max-width:154px; _width:154px;"/>
+
+                                        </div>
+                                        <h3 style="width:158px;" title="BOSMA IND Co., Ltd.">BOSMA IND Co., Ltd.</h3>
+                                    </a>
+                                </li>
+                        
+                                <li>
+                                    <a href="http://www.novel.com.cn/novel/index.shtml" target="_blank">
+                                        <img src="/images/kuang.png" alt=""/>
+                                        <div class="kuang"  style="width:158px; height:90px; overflow:hidden; text-align:center; line-height:90px;  _font-size:90px;">
+                                            <img src="/upfile/news/201602/1454393667_6931.png" alt="" style="display:inline-block; vertical-align:middle; max-height:90px; _height:90px; max-width:154px; _width:154px;"/>
+
+                                        </div>
+                                        <h3 style="width:158px;" title="Huangshan Novel Co., Ltd.">Huangshan Novel Co., Ltd.</h3>
+                                    </a>
+                                </li>
+                        
+                                <li>
+                                    <a href="http://xiangtea.cteaw.com/" target="_blank">
+                                        <img src="/images/kuang.png" alt=""/>
+                                        <div class="kuang"  style="width:158px; height:90px; overflow:hidden; text-align:center; line-height:90px;  _font-size:90px;">
+                                            <img src="/upfile/news/201602/1454393572_4192.png" alt="" style="display:inline-block; vertical-align:middle; max-height:90px; _height:90px; max-width:154px; _width:154px;"/>
+
+                                        </div>
+                                        <h3 style="width:158px;" title="Hunan Tea Group Co., Ltd.">Hunan Tea Group Co., Ltd.</h3>
+                                    </a>
+                                </li>
+                        
+                                <li>
+                                    <a href="http://91163.71ab.com/" target="_blank">
+                                        <img src="/images/kuang.png" alt=""/>
+                                        <div class="kuang"  style="width:158px; height:90px; overflow:hidden; text-align:center; line-height:90px;  _font-size:90px;">
+                                            <img src="/upfile/news/201602/1454393494_9864.png" alt="" style="display:inline-block; vertical-align:middle; max-height:90px; _height:90px; max-width:154px; _width:154px;"/>
+
+                                        </div>
+                                        <h3 style="width:158px;" title="Data &amp; Jupiter Freight (Beijing) Co., Ltd.">Data &amp; Jupiter Freight (Beijing) Co., Ltd.</h3>
+                                    </a>
+                                </li>
+                        
+                                <li>
+                                    <a href="http://m.jiajiagroup.com/zh-CN/3g/index.html" target="_blank">
+                                        <img src="/images/kuang.png" alt=""/>
+                                        <div class="kuang"  style="width:158px; height:90px; overflow:hidden; text-align:center; line-height:90px;  _font-size:90px;">
+                                            <img src="/upfile/news/201602/1454393446_6072.png" alt="" style="display:inline-block; vertical-align:middle; max-height:90px; _height:90px; max-width:154px; _width:154px;"/>
+
+                                        </div>
+                                        <h3 style="width:158px;" title="Jiajia Food Group Co., Ltd.">Jiajia Food Group Co., Ltd.</h3>
+                                    </a>
+                                </li>
+                        
+                                <li>
+                                    <a href="http://www.whfysw.com/" target="_blank">
+                                        <img src="/images/kuang.png" alt=""/>
+                                        <div class="kuang"  style="width:158px; height:90px; overflow:hidden; text-align:center; line-height:90px;  _font-size:90px;">
+                                            <img src="/upfile/news/201602/1454393347_4436.png" alt="" style="display:inline-block; vertical-align:middle; max-height:90px; _height:90px; max-width:154px; _width:154px;"/>
+
+                                        </div>
+                                        <h3 style="width:158px;" title="Wuhan Fengyang Biotech Co., Ltd.">Wuhan Fengyang Biotech Co., Ltd.</h3>
+                                    </a>
+                                </li>
+                                            </ul>
+                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script type="text/javascript" src="/images/hScrollPane.js"></script>
+
+<script type="text/javascript">
+$(function() {
+
+// 	var gundiv=document.getElementById('gundiv');
+// 	var gLi=gundiv.getElementsByTagName('li')[0];
+// 	var iWidth=gLi.offsetWidth
+// 	alert(iWidth)
+//    var glen = $(".cp_list   li").length;
+//    $("#gundiv ul").css("width",180 * (glen));
+//
+//    });
+//    $("#zsgun").hScrollPane({
+//        mover:"ul",
+//        moverW:function(){return $("#zsgun li").length*158-370}(),
+//        showArrow:true,
+//        handleCssAlter:"draghandlealter"
+//    });
+
+</script>
+<div class="nav">
+        <div class="nav_contains">
+            <p><a href="/"><img src="/images/logo.jpg" alt=""/></a></p>
+            <ul>
+               <ul>
+                <li class="nav_list"><a href="/en/site/index">Index</a><span style="visibility:hidden;background:none;"></span>
+                    <div class="nav_bar" style="display:block;z-index: 0;opacity:0;filter:alpha(opacity=0)">
+                        <div class="contains">
+                            <ul>
+                                <li class="nav_select"></li>
+                            </ul>
+                        </div>
+                    </div></li>
+                <li class="nav_list"><a href="/en/about/company" class="">AboutSL</a><span class=""style="visibility:hidden"></span>
+                    <div class="nav_bar" style="">
+                        <div class="contains">
+                            <ul>
+                                <li class="nav_select" ><a href="/en/about/company">Company Introduction</a></li>
+                                <li ><a href="/en/about/memorabilia">Memorabilia</a></li>
+                                <li ><a href="/en/about/news">News Information</a></li>
+                                <li ><a href="/en/about/organization">组织架构英文翻译</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                <li class="nav_list"><a href="/en/corporateculture/vision" class="">Corporate Culture</a><span class=""style="visibility:hidden"></span>
+                    <div class="nav_bar" style="">
+                        <div class="contains">
+                            <ul>
+                                <li class="nav_select"><a href="/en/corporateculture/vision">Corporate Vision</a></li>
+                                <li ><a href="/en/corporateculture/mission">Corporate Mission</a></li>
+                                <li ><a href="/en/corporateculture/values">Company Values</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                <li class=""><a href="/en/business/strategies" class="select">Our Business</a><span class="select_more"style="visibility: visible;"></span>
+                    <div class="nav_bar" style="display:block;z-index: 99;">
+                        <div class="contains">
+                            <ul>
+                                <li ><a href="/en/business/strategies">Ideas & Strategies</a></li>
+                                <li ><a href="/en/business/investmentplate">Investment Plate</a></li>
+                                <li class="nav_select"><a href="/en/business/companypart">Already Invested Enterprise</a></li>
+                                <li  ><a href="/en/business/investment">Investment</a></li><!--产业投资英文翻译-->
+
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                <li class="nav_list"><a href="/en/mindsintroduction/team" class="">Team Introduction</a><span class=""style="visibility:hidden"></span>
+                    <div class="nav_bar" style="">
+                        <div class="contains">
+                            <ul>
+                                <li class="nav_select"><a href="/en/mindsintroduction/team">Team Introduction</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                <li class="nav_list"><a href="/en/contactus/detail" class="">Contact Us</a><span class=""style="visibility:hidden"></span>
+                    <div class="nav_bar" style="">
+                        <div class="contains">
+                            <ul>
+                                <li class="nav_select"><a href="/en/contactus/detail">Contact Us</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                <li class="nav_list"><a href="/en/bigfamily/family" class="">Yuanlong Big Family</a><span class=""style="visibility:hidden"></span>
+                    <div class="nav_bar" style="">
+                        <div class="contains">
+                            <ul>
+                                <li class="nav_select"><a href="/en/bigfamily/family">Yuanlong Big Family</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+            <!--<form id="searchForm" action="/en/About/news" method="GET">
+            <div class="search">
+                <input type="text" placeholder="Please enter a keyword" id="title" name="title" value="" data-validate="required">
+                <a id="searchBtn" href="javascript:;"></a>
+            </div>
+            </form>-->
+            <script type="text/javascript">
+                    $('#title').click(function(){
+                           $(".search").css("border","1px solid #ddd");
+                    });
+
+                $('#title').focus(function(){
+                    if($.trim($('#title').val()) == 'Please enter a keyword'){
+                        $('#title').val('');
+                        $('#title').css("color","#999");
+                    }
+                });
+
+                $('#searchBtn').click(function(){
+                    if(!$.trim($('#title').val()) || $.trim($('#title').val()) == 'Please enter a keyword'){
+                        $('#title').val('Please enter a keyword');
+                        $('#title').css("color","#B48F32");
+                    }else{
+                        $('#searchForm').submit();
+                    }
+                });
+                    var navVr = document.querySelectorAll('.nav_bar');
+    window.onscroll = function(){
+        var t = document.documentElement.scrollTop || document.body.scrollTop;
+        for (var i = 0; i < navVr.length; i++) {
+            navVr[i].style.top='0px';
+        };
+    }
+                    function changeNavHeight(){
+                    	var h = $(window).height();
+                        $('.contains').css('height',h);
+                    }
+                    $(function(){
+                        $(window).on('resize',function(){changeNavHeight()});
+                        changeNavHeight();
+                    })
+            </script>
+                                    <h3 style="width: 202px;"><a href="/business/companypart/id/1">EN&nbsp;/&nbsp;<span style="color: #999;">中文</span></a><span style="padding-left: 8px">|</span><span style="padding-left: 8px"><a href="#">OA System</a></span></h3>
+                        <div class="footer">
+                <p>© 2015SL Capital All rights reserved. 沪ICP备18020452号-1</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="mobile-footer">
+  <p>© 2015SL Capital All rights reserved.</p>
+  <p>京ICP备05028299号</p></div>
+<script type="text/javascript" src="/js/main.js"></script>
+<script>
+
+  $(".mobile-btn").click(function(){
+
+    if($(this).hasClass("close")){
+      $(this).removeClass("close")
+      $(".m-nav").fadeOut();
+    }else{
+      $(this).addClass("close")
+      $(".m-nav").fadeIn();
+    }
+
+
+  });
+
+</script>
+</body>
+</html>
